@@ -1,0 +1,14 @@
+iiWelcome to the stuff! This is an info line!		Trs80.local	7070
+i		Trs80.local	7070
+iThis is a random line of text.		Trs80.local	7070
+0The Wasteland	wasteland.txt	localhost	70
+0Emptiness	empty.txt	localhost	70
+IBitmap Photo	tseliot.bmp	localhost	70
+gGIF Photo	tseliot.gif	localhost	70
+IJPEG Photo	tseliot.jpg	localhost	70
+IPNG Photo	tseliot.png	localhost	70
+5All Photos ZIP	tseliot.zip	localhost	70
+5Bitmap gz	tseliot.bmp.gz	localhost	70
+cBirthday Calendar Event	tseliot.ics	localhost	70
+1Walt Whitman	whitman	localhost	70
+.
