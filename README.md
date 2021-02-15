@@ -1,7 +1,7 @@
 # Gophers (Four Different Ones)
 This is a collection of very small, minimally functional [Gopher](https://en.wikipedia.org/wiki/Gopher_%28protocol%29) servers written in several different programming languages.
 
-![Dragged down by the 🗿](https://raw.githubusercontent.com/mdesjardins/gopher-servers/main/animals.png)
+<img src="https://raw.githubusercontent.com/mdesjardins/gopher-servers/main/animals.png" alt="Dragged down by the 🗿" width="300"/>
 
 ## A _What_ Server?
 Before the World Wide Web as we know it today, we had Gopher. When I went to college in the early 1990s, the computer labs that had high-end Unix workstations running X/Windows could run the earliest versions of [NCSA Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser)), an early precursor to what would become Netscape Navigator. But in the dorms, we were limited to using text-based terminals, where we were able to dial-in over 2400bps modems. SLIP and PPP weren't even a thing yet. 
@@ -32,3 +32,5 @@ I don't have hard and fast rules for this, but I'm trying to stick to the follow
 The gopher_root directory is a sample directory from which the tests serve content. 
 
 That's it I guess, enjoy!
+
+_Dragged down by the 🗿_
