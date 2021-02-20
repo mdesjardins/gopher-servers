@@ -1,4 +1,4 @@
-# Gophers (Four Different Ones)
+# Gophers (Five Different Ones)
 This is a collection of very small, minimally functional [Gopher](https://en.wikipedia.org/wiki/Gopher_%28protocol%29) servers written in several different programming languages.
 
 <img src="https://raw.githubusercontent.com/mdesjardins/gopher-servers/main/animals.png" alt="Dragged down by the 🗿" width="300"/>
@@ -29,8 +29,12 @@ I don't have hard and fast rules for this, but I'm trying to stick to the follow
 * I'm going to try to make a README in each implementation that contains rambling bloviation about stuff that I've learned and instructions on how to run it.
 * I'm sure that the code for many of these is not very good. I'm not an expert in most of these languages and I'm just trying to get something to work, I'm not writing my opus. Be gentle and try not to laugh if the code looks awful.
 
-The gopher_root directory is a sample directory from which the tests serve content. 
+## What's here
+* The various implementations are in the implementations directory, anlong with README files explaining how to run them and notes on the implementation.
+* The gopher_root directory is a sample directory from which the tests serve content. 
+* The bare-bones tests (mentioned above) are in tests/ ... the test "suite" is a shell script you can run called `run_tests.sh`
 
 That's it I guess, enjoy!
 
-_Dragged down by the 🗿_
+____
+_I have been dragged down by the 🗿_
