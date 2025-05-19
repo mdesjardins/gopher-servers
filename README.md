@@ -1,4 +1,4 @@
-# Gophers (Five Different Ones)
+# Gophers (Six Different Ones)
 This is a collection of very small, minimally functional [Gopher](https://en.wikipedia.org/wiki/Gopher_%28protocol%29) servers written in several different programming languages.
 
 <img src="https://raw.githubusercontent.com/mdesjardins/gopher-servers/main/animals.png" alt="Dragged down by the 🗿" width="300"/>
